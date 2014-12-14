@@ -1,1 +1,3 @@
-<?="Teste";?>
+<?="Teste";
+php.info;
+?>
